@@ -1,0 +1,6 @@
+Flask==2.3.3
+pydub==0.25.1
+yt-dlp==2023.10.07
+google-api-python-client==2.103.0
+spotipy==2.23.0
+gunicorn==21.2.0
